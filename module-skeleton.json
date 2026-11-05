@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-cms-copilot-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-cms-copilot",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-cms-copilot-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/cms-copilot.md",
+  "presentationPlan": "projects/cms/nuxt/cms-copilot.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
